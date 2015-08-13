@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>CQ Web App Package</comment>
+<entry key="createdBy">reggie.senal</entry>
+<entry key="name">cqwebapp-content</entry>
+<entry key="created">2015-08-13T11:44:41.510+0800</entry>
+<entry key="groupId">cq-web-app</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">Sample Company</entry>
+<entry key="description">Maven Multimodule project for CQ Web App.</entry>
+<entry key="artifactId">cqwebapp-content</entry>
+<entry key="path">/etc/packages/Sample Company/cqwebapp-content.zip</entry>
+</properties>
