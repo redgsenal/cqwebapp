@@ -1,1 +1,3 @@
 mvn archetype:generate -DarchetypeRepository=http://repo.adobe.com/nexus/content/groups/public/ -DarchetypeGroupId=com.day.jcr.vault -DarchetypeArtifactId=multimodule-content-package-archetype -DarchetypeVersion=1.0.2 -DgroupId=cq-web-app -DartifactId=cqwebapp -Dversion=1.0-SNAPSHOT -Dpackage=com.samplecorp.cqwebapp -DappsFolderName=cqwebapp -DartifactName="CQ Web App" -DcqVersion="5.6.1" -DpackageGroup="Sample Company"
+
+mvn -Padobe-public archetype:generate -DarchetypeRepository=http://repo.adobe.com/nexus/content/groups/public/ -DarchetypeGroupId=com.day.jcr.vault -DarchetypeArtifactId=multimodule-content-package-archetype -DarchetypeVersion=1.0.2

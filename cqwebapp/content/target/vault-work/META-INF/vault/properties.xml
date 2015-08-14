@@ -4,7 +4,7 @@
 <comment>CQ Web App Package</comment>
 <entry key="createdBy">reggie.senal</entry>
 <entry key="name">cqwebapp-content</entry>
-<entry key="created">2015-08-13T11:44:41.510+0800</entry>
+<entry key="created">2015-08-13T12:53:11.064+0800</entry>
 <entry key="groupId">cq-web-app</entry>
 <entry key="version">1.0-SNAPSHOT</entry>
 <entry key="requiresRoot">false</entry>
